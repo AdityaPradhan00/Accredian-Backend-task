@@ -12,7 +12,7 @@ const app = express();
 const port = 4000;
 
 const corsOptions = {
-  origin: 'https://accredian-frontend-task-foeh1nj93-adityapradhan00s-projects.vercel.app/',
+  origin: 'https://accredian-frontend-task-ruby.vercel.app',
   methods: ['GET', 'POST'],
   allowedHeaders: ['Content-Type', 'Authorization'],
 };
